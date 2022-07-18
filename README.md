@@ -1,2 +1,3 @@
 # WordPlay
 Guess the 5 letter words.
+This is a project I am working on currently and I'm still making some adjustments. Since I have a love for English, why not make a word game...
